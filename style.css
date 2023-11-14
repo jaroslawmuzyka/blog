@@ -1,0 +1,13 @@
+.image-custom-style-single {
+    height: auto;
+    max-height: 225px;
+    display: block;
+    margin: auto;
+    width: 30%;
+}
+
+.image-custom-style-list {
+    height: 225px;
+    width: 100%;
+    display: block;
+}
